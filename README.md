@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djeang0&label=Profile%20views&color=0e75b6&style=flat" alt="djeang0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djeang0" alt="djeang0" /></a> </p>
-
 - 🔭 I’m currently working on [Encriptador de texto](https://djeang0.github.io/Encriptador/)
 
 - 🌱 I’m currently learning **JavaScript, HTML5, CSS3, Java, Spring Boot**
 
+- 💬 Ask me about **Java and Spring Boot**
+
 - 📫 How to reach me **jean.munoz2134@gmail.com**
+
+- ⚡ Fun fact **I love coffe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=djeang0&show_icons=true&locale=en&layout=compact" alt="djeang0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djeang0&show_icons=true&locale=en" alt="djeang0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djeang0&" alt="djeang0" /></p>
-
