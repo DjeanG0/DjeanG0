@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Encriptador de texto](https://djeang0.github.io/Encriptador/)
 
-- 🌱 I’m currently learning **JavaScript, HTML5, CSS3, Java, Spring Boot**
+- 🌱 I’m currently learning **JavaScript, HTML5, CSS3, Java, Spring Boot and Docker**
 
 - 💬 Ask me about **Java and Spring Boot**
 
